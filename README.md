@@ -1,2 +1,2 @@
-# Projects
+# Scientific Calculator
 Calculator
